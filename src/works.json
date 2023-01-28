@@ -1,19 +1,20 @@
-[
+[ 
+  {
+    "title" : "Hello Card Portfolio",
+    "img" : "https://i.ibb.co/7zZw4S0/Screenshot-from-2023-01-28-23-08-22.png" , 
+    "descr" : "Made this website to serve as a Portfolio using react and framer animations",
+    "link" : "https://github.com/amo-draper/HelloCard-Portfolio"
+  },
+  {
+    "title": "Stocks Performance Check",
+    "img": "https://i.ibb.co/xFfR6JN/Screenshot-from-2023-01-28-23-07-32.png",
+    "descr": "Compares stock Performance from opening to the closing of market using polygon api",
+    "link": "https://github.com/amo-draper/Elabs-StocksApp"
+  },
   {
     "title": "Geo Location Webapp",
-    "img": "https://source.unsplash.com/random",
+    "img": "https://i.ibb.co/b3FpZMR/weather-App.png",
     "descr": "Weather app that utilizes a users current location to fetch the respective weather information",
     "link": "https://github.com/amo-draper/geo-web-app"
-  },
-  {
-    "title": "Photo Gallery Flex",
-    "img": "https://source.unsplash.com/random",
-    "descr": " Simple flex gallery made to showcase cars",
-    "link": "https://github.com/amoterror/Photo-Gallery-flex"
-  },
-  {
-    "title": "Coming Soon",
-    "img": "https://source.unsplash.com/random",
-    "descr": "A very good project"
   }
 ]
