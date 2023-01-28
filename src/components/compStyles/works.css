@@ -1,0 +1,9 @@
+.work-card {
+  background-color: black;
+  transition: ease-in 0.34s;
+}
+
+.work-card:hover {
+  scale: 1.1;
+  transition: ease-in 0.34s;
+}

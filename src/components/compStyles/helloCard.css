@@ -1,0 +1,55 @@
+.helloCard {
+  border-radius: 3em;
+  color: black;
+  background-color: white;
+  width: 500px;
+  text-align: center;
+}
+.helloCardRedPart {
+  font-size: 1.2em;
+  color: white;
+  background-color: red;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.namePart {
+  font-size: 2.5em;
+}
+.upperRed {
+  border-top-left-radius: 2em;
+  border-top-right-radius: 2em;
+}
+.lowerRed {
+  border-bottom-left-radius: 2em;
+  border-bottom-right-radius: 2em;
+}
+
+@media (max-width: 750px) {
+  .helloCard {
+    border-radius: 3em;
+    color: black;
+    background-color: white;
+    width: 80vw;
+    text-align: center;
+  }
+  .helloCardRedPart {
+    font-size: 0.8em;
+    color: white;
+    background-color: red;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  .namePart {
+    font-size: 2.2em;
+  }
+  .upperRed {
+    border-top-left-radius: 2em;
+    border-top-right-radius: 2em;
+  }
+  .lowerRed {
+    border-bottom-left-radius: 2em;
+    border-bottom-right-radius: 2em;
+  }
+}

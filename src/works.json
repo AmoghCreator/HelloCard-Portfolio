@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Geo Location Webapp",
+    "img": "https://source.unsplash.com/random",
+    "descr": "Weather app that utilizes a users current location to fetch the respective weather information",
+    "link": "https://github.com/amo-draper/geo-web-app"
+  },
+  {
+    "title": "Photo Gallery Flex",
+    "img": "https://source.unsplash.com/random",
+    "descr": " Simple flex gallery made to showcase cars",
+    "link": "https://github.com/amoterror/Photo-Gallery-flex"
+  },
+  {
+    "title": "Coming Soon",
+    "img": "https://source.unsplash.com/random",
+    "descr": "A very good project"
+  }
+]

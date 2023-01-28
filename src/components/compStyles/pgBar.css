@@ -1,0 +1,14 @@
+.main {
+  position: absolute;
+  right: 1vw;
+}
+.circle {
+  width: 10px;
+  height: 10px;
+  background-color: transparent;
+  border-radius: 50em;
+  border-style: solid;
+  border-color: green;
+  margin-bottom: 15px;
+  transition: all 0.5s;
+}

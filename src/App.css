@@ -1,10 +1,36 @@
+.BigBigWrapper {
+  height: 500vh;
+}
+
 .App {
+  position: fixed;
   text-align: center;
+  background-color: black;
+  height: 100vh;
+  width: 100vw;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro {
+}
+
+.text {
+  color: white;
+}
+
+.cardWrapper {
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 90vmin;
   pointer-events: none;
+}
+
+p {
+  color: green;
 }
 
 @media (prefers-reduced-motion: no-preference) {
