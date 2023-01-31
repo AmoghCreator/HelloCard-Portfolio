@@ -11,7 +11,7 @@ function Works(props) {
           href={props.data.link}
           style={{ textDecoration: "none", paddingLeft: "5px" }}
         >
-          click here
+          Read More
         </a>
       );
   }
@@ -23,9 +23,9 @@ function Works(props) {
     >
       <h1>{props.data.title}</h1>
       <img style={{ width: 300, height: 200 }} src={props.data.img} alt="" />
-      <h2>
-        {props.data.descr} {linker(props.data.link)}
-      </h2>
+
+      <h2>{props.data.descr}</h2>
+      <button className="btn">{linker(props.data.link)}</button>
     </div>
   );
 }

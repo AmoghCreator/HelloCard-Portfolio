@@ -5,7 +5,7 @@ function HelloCard() {
     <div className="helloCard" style={{ position: "realative", zIndex: 10 }}>
       <div className="helloCardRedPart upperRed">
         <h3>
-          <span style={{ fontSize: "2.4em" }}>Hello!</span>
+          <span style={{ fontSize: "2.4em" }}>Hello! 👋</span>
           <br /> My Name is :-
         </h3>
       </div>
