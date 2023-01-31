@@ -7,3 +7,11 @@
   scale: 1.1;
   transition: ease-in 0.34s;
 }
+.btn {
+  margin-bottom: 13px;
+  background-color: aliceblue;
+  color: black;
+  height: 35px;
+  width: 130px;
+  font-size: 15px;
+}
